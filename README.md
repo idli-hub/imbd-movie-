@@ -24,5 +24,4 @@ This project explores and analyzes a dataset of IMDb-listed movies to extract me
 - Certain directors and actors consistently appear in top-rated films
 - Some genres consistently receive higher user ratings
 
-## 📁 Folder Structure
 
